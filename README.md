@@ -32,7 +32,7 @@ http://software.broadinstitute.org/software/igv/tcga
 - pandas
 - sklearn
 
-## Setup Guide 
+ㅊ 
 1. 수업시간에 배웠던 방법으로 Anaconda와 Jupyter Notebook을 설치합니다.
 2. Conda 가상 환경을 생성합니다. 
 ```
@@ -48,4 +48,6 @@ $ pip install tensorflow==1.10.0 numpy pandas keras sklearn
 ```
 5. Jupyter Notebook을 실행시키고, `Cancer_Drug_Resistance_Prediction.ipynb` 파일을 엽니다.
 
+## Youtube Link
+- ?
 

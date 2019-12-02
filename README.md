@@ -22,7 +22,8 @@ TensorFlow와 Keras 기반의 DNN 모델을 사용하여 난소암의 백금 성
 - 수업 때 배웠던 내용을 전산 외의 다른 분야의 연구에 적용할 수 있음을 체험합니다.
 - 항암제 (백금 성분) 저항성을 가지게 되는 환자들을 성공적으로 예측할 수 있다면, 그들에게 다른 치료법을 시행할 수 있어 환자들의 시간 및 비용이 절감될 것을 기대할 수 있습니다.
 
-## Dataset
+## Dataset Reference
+http://software.broadinstitute.org/software/igv/tcga
 
 ## Pre-Requisites
 - tensorflow 1.10.0

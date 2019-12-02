@@ -1,6 +1,8 @@
 # 유전자 정보를 이용한 난소암 항암제 내성 예측
 TensorFlow와 Keras 기반의 DNN 모델을 사용하여 난소암의 백금 성분 항암제 내성을 예측하는 프로젝트입니다.
 
+## Contributors
+? Lab, Harim Song, Jihyun Lee
 
 ## Motivation
 - 저희 조는 생명 전공생 한 명, 전산 전공생 한 명으로 이루어져 있습니다. 인공지능 모델을 이용하여 난소암 항암제 내성 여부를 예측하는 것은 각자의 전공과 관심 분야를 모두 살릴 수 있는 주제라고 생각되어, 본 프로젝트를 선정하게 되었습니다.
@@ -26,8 +28,8 @@ TensorFlow와 Keras 기반의 DNN 모델을 사용하여 난소암의 백금 성
 - numpy
 - pandas
 - sklearn
-  '''
-  pip install tensorflow==1.10.0 numpy pandas keras sklearn
-  '''
+~~~
+pip install tensorflow==1.10.0 numpy pandas keras sklearn
+~~~
 
 ## 

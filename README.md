@@ -33,7 +33,7 @@ http://software.broadinstitute.org/software/igv/tcga
 - pandas
 - sklearn
 
-
+## Setup Guide
 1. 수업시간에 배웠던 방법으로 Anaconda와 Jupyter Notebook을 설치합니다.
 2. Conda 가상 환경을 생성합니다. 
 ```

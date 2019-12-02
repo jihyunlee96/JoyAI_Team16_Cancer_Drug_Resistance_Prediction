@@ -28,8 +28,7 @@ TensorFlow와 Keras 기반의 DNN 모델을 사용하여 난소암의 백금 성
 - numpy
 - pandas
 - sklearn
-~~~
-pip install tensorflow==1.10.0 numpy pandas keras sklearn
-~~~
+
+1. ` pip install tensorflow==1.10.0 numpy pandas keras sklearn `
 
 ## 

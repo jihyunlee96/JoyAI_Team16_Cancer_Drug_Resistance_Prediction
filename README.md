@@ -50,5 +50,10 @@ $ pip install tensorflow==1.10.0 numpy pandas keras sklearn
 5. Jupyter Notebook을 실행시키고, `Cancer_Drug_Resistance_Prediction.ipynb` 파일을 엽니다.
 
 ## Youtube Link
-- ?
+1. 배경 설명 / 환경 설정 / 데이터셋 설명  
+https://youtu.be/UNBisQu6jw0  
+2. 코드 설명 (1)  
+https://youtu.be/CAW1bLGndew  
+3. 코드 설명 (2)  
+https://youtu.be/oUKI4E7Q2L4  
 

@@ -31,9 +31,18 @@ TensorFlow와 Keras 기반의 DNN 모델을 사용하여 난소암의 백금 성
 
 ## Setup Guide 
 1. 수업시간에 배웠던 방법으로 Anaconda와 Jupyter Notebook을 설치합니다.
-2. Conda 가상 환경을 생성합니다. ```conda create -n <가상환경 이름>```
-3. Conda 가상 환경에 접속합니다. ```conda activate <가상환경 이름>```
-4. 필요 라이브러리들을 설치합니다. ```pip install tensorflow==1.10.0 numpy pandas keras sklearn```
-5. Jupyter Notebook을 실행시키고, ```Cancer_Drug_Resistance_Prediction.ipynb` 파일을 엽니다.```
+2. Conda 가상 환경을 생성합니다. 
+```
+conda create -n <가상환경 이름>
+```
+3. Conda 가상 환경에 접속합니다. 
+```
+conda activate <가상환경 이름>
+```
+4. 필요 라이브러리들을 설치합니다. 
+```
+pip install tensorflow==1.10.0 numpy pandas keras sklearn
+```
+5. Jupyter Notebook을 실행시키고, `Cancer_Drug_Resistance_Prediction.ipynb` 파일을 엽니다.
 
 

@@ -30,7 +30,8 @@ TensorFlow와 Keras 기반의 DNN 모델을 사용하여 난소암의 백금 성
 - sklearn
 
 ## Setup Guide 
-1. 수업시간에 
-2. ` pip install tensorflow==1.10.0 numpy pandas keras sklearn `
+1. 수업시간에 배웠던 방법으로 Anaconda를 설치합니다.
+2. Conda 가상 환경을 생성합니다. `conda create -n *<가상환경 이름>*`
+3. ` pip install tensorflow==1.10.0 numpy pandas keras sklearn `
 
 ## 

@@ -24,7 +24,7 @@ TensorFlow와 Keras 기반의 DNN 모델을 사용하여 난소암의 백금 성
 
 ## Dataset Reference
 The Cancer Genome Atlas (TCGA) Datasets
-- http://software.broadinstitute.org/software/igv/tcga
+http://software.broadinstitute.org/software/igv/tcga
 
 ## Pre-Requisites
 - tensorflow 1.10.0

@@ -22,13 +22,15 @@ TensorFlow와 Keras 기반의 DNN 모델을 사용하여 난소암의 백금 성
 
 ## Dataset
 
-## Pre-requisites
+## Pre-Requisites
 - tensorflow 1.10.0
 - keras
 - numpy
 - pandas
 - sklearn
 
-1. ` pip install tensorflow==1.10.0 numpy pandas keras sklearn `
+## Setup Guide 
+1. 수업시간에 
+2. ` pip install tensorflow==1.10.0 numpy pandas keras sklearn `
 
 ## 
